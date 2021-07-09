@@ -1,0 +1,16 @@
+[package]
+name = "spectra"
+version = "0.14.0"
+license = "BSD-3-Clause"
+authors = ["Dimitri Sabadie <dimitri.sabadie@gmail.com>"]
+description = "TODO"
+keywords = ["TODO"]
+categories = ["TODO"]
+homepage = "https://github.com/phaazon/spectra"
+repository = "https://github.com/phaazon/spectra"
+documentation = "https://docs.rs/spectra"
+readme = "README.md"
+edition = "2018"
+
+[badges]
+maintenance = { status = "actively-developed" }
